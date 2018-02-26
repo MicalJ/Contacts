@@ -1,0 +1,8 @@
+C:\Repos\Contacts\ContactsContext\bin\Debug\netcoreapp2.0\ContactsContext.deps.json
+C:\Repos\Contacts\ContactsContext\bin\Debug\netcoreapp2.0\ContactsContext.dll
+C:\Repos\Contacts\ContactsContext\obj\Debug\netcoreapp2.0\ContactsContext.csproj.CoreCompileInputs.cache
+C:\Repos\Contacts\ContactsContext\obj\Debug\netcoreapp2.0\ContactsContext.AssemblyInfoInputs.cache
+C:\Repos\Contacts\ContactsContext\obj\Debug\netcoreapp2.0\ContactsContext.AssemblyInfo.cs
+C:\Repos\Contacts\ContactsContext\bin\Debug\netcoreapp2.0\ContactsContext.pdb
+C:\Repos\Contacts\ContactsContext\obj\Debug\netcoreapp2.0\ContactsContext.dll
+C:\Repos\Contacts\ContactsContext\obj\Debug\netcoreapp2.0\ContactsContext.pdb
